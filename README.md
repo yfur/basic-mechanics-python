@@ -40,6 +40,6 @@ Concerned with [Matplotlib](http://matplotlib.org/index.html), big update from 1
   * scipy (0.18.1)
   * matplotlib (2.0.0)
 
-よく知られているように，Python の2系と3系は大きく異なっていますので，本レポジトリのプログラムは2系ではおおよそ動かないです．
+よく知られているように，Python の2系と3系は大きく異なっていますので，本レポジトリのプログラムは2系ではおおよそコンパイルできません．
 
 [Matplotlib](http://matplotlib.org/index.html) に関しては，2017年1月17日に行われた1系から2系への大型アップデートにより，グラフやアニメーションの外観が変化しています．しかし，本レポジトリで扱う内容に関しては，これはあまり大きな問題ではないでしょう．
