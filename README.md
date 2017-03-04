@@ -20,14 +20,14 @@ As is well known, Python series 2.\* and 3.\* are quite different and running a 
 Concerned with [Matplotlib](http://matplotlib.org/index.html), big update from 1.\* to 2.\* was done on January 17, 2017, which makes a differences of appearance about graphs and animations, though it is not a big matter in this project.
 
 
-# Python で機械力学の基本
+# Python による機械力学の基本
 
 本リポジトリは機械力学の基本に関する Python プログラムを含んでいます．
 
 
 ## このレポジトリについて
 
-個人的な機械力学の勉強用のレポジトリです．
+個人的な機械力学の勉強用のレポジトリです．言葉遣いや数式への理解は未熟ではありますが，文章を書く力をつける練習のため色々書いてます．
 
 
 ## 環境
