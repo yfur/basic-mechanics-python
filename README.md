@@ -46,4 +46,5 @@ Concerned with [Matplotlib](http://matplotlib.org/index.html), big update from 1
 
 ## 内容
 
-[0_quickstart](https://github.com/yfur/basic-mechanics-python/blob/master/0_quickstart/0_quickstart.ipynb): 単振り子の運動のシミュレーション．最低限の簡単なプログラム．
+* [0_quickstart](https://github.com/yfur/basic-mechanics-python/blob/master/0_quickstart/0_quickstart.ipynb): 単振り子の運動のシミュレーション．最低限の簡単なプログラム．
+* [1_modeling](https://github.com/yfur/basic-mechanics-python/blob/master/1_modeling/1_modeling.ipynb): Lagrange の運動方程式を　Python で計算する方法など．
